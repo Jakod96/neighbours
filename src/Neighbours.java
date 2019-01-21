@@ -103,7 +103,7 @@ public class Neighbours extends Application {
         // % of surrounding neighbours that are like me
         double threshold = 0.7;
         Actor[][] newWorld;
-
+out.println("asd");
         // TODO update the world
     }
 
